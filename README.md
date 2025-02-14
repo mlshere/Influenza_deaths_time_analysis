@@ -1,5 +1,5 @@
 # Influenza Season Analysis
-*Leveraging Data Analytics for Improved Staffing Decisions*
+*Using Data Analytics for improved staffing decisions*
 
 ## Table of Contents
 1. Project Overview  
