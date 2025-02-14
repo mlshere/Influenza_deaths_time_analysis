@@ -37,20 +37,17 @@ By understanding **when** and **where** demand may spike, the agency can dispatc
 1. **Influenza Deaths by Geography**  
    - **Source**: Centers for Disease Control and Prevention (CDC)  
    - **Description**: State-level counts of influenza-related deaths for multiple years.  
-   - **Limitations**: Underreporting or inconsistent cause-of-death classification can skew results.  
-   - :contentReference[oaicite:0]{index=0}  
+   - **Limitations**: Underreporting or inconsistent cause-of-death classification can skew results.    
 
 2. **Population Data by State and Age**  
    - **Source**: US Census Bureau  
    - **Description**: Provides population estimates by state, age group, and sex.  
    - **Limitations**: Estimates may not fully account for migration or undercounting.  
-   - :contentReference[oaicite:1]{index=1}  
-
+     
 3. **Influenza Laboratory Test Results**  
    - **Source**: CDC FluView  
    - **Description**: Survey-based weekly data on influenza test results by state.  
-   - **Limitations**: Limited to reported tests; may not reflect the true total number of cases.  
-   - :contentReference[oaicite:2]{index=2}  
+   - **Limitations**: Limited to reported tests; may not reflect the true total number of cases.   
 
 ---
 
