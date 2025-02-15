@@ -70,7 +70,7 @@ By understanding **when** and **where** demand may spike, the agency can dispatc
 
 5. **Data Visualization**  
    - Developed plots and charts to communicate findings effectively.  
-   - Tools: **Tableau**, **Matplotlib**, or **Seaborn** (depending on the pipeline preferences).
+   - Tools: **Tableau**.
 
 ---
 
